@@ -1,3 +1,5 @@
 ROBI RESOLUSI
 1.semangat ngoding
-2. semnagt programing 
+2.semnagt programing 
+3. belajar SPA
+4.Angular
